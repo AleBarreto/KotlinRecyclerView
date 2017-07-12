@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KotlinRecyclerView</string>
+
+    <string name="app_title_main">Feed Reader</string>
+
+    <string name="text_generic">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum nisl nisi, eget commodo ipsum dignissim cursus. Donec vehicula tincidunt ullamcorper. Suspendisse aliquet ligula vitae facilisis gravida.</string>
+
+    <string name="url_image1">http://s2.evcdn.com/images/block/I0-001/037/939/145-8.jpeg_/cloud-native-essentials-new-york-july-2017-45.jpeg</string>
+    <string name="city_1">New York City</string>
+    <string name="tag_1">Travel</string>
+
+    <string name="url_image2">https://static.wixstatic.com/media/98dbde_423a3e4f18c448308976b0c9d88ac5d2.jpg_256</string>
+    <string name="city_2">Fun at the Beach</string>
+    <string name="tag_2">Recreation</string>
+
+</resources>
